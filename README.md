@@ -118,6 +118,3 @@ Some of my favorite ways to learn:
 Understand the machine.
 Read the documentation.
 ```
-
----
-```
