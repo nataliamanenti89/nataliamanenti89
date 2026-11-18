@@ -1,3 +1,4 @@
+![Vintage CRT Computers](./assets/banner.jpg)
 <div align="center">
 
 # `nataliamanenti`
